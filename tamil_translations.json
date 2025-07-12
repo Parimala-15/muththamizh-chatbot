@@ -1,0 +1,104 @@
+{
+  "translations": {
+    "english_to_tamil": {
+      "hello": "வணக்கம்",
+      "goodbye": "பிரியாவிடை",
+      "thank you": "நன்றி",
+      "love": "காதல்",
+      "friend": "மித்ரன்",
+      "family": "குடும்பம்",
+      "happiness": "மகிழ்ச்சி",
+      "knowledge": "அறிவு",
+      "wisdom": "ஞானம்",
+      "peace": "அமைதி",
+      "river": "நதி",
+      "mountain": "மலை",
+      "sky": "வானம்",
+      "earth": "பூமி",
+      "fire": "அக்னி",
+      "water": "நீர்",
+      "air": "காற்று",
+      "moon": "சந்திரன்",
+      "sun": "சூரியன்",
+      "star": "நட்சத்திரம்",
+      "dream": "கனவு",
+      "truth": "உண்மை",
+      "beauty": "அழகு",
+      "strength": "வலிமை",
+      "courage": "தைரியம்",
+      "friendship": "மித்ரத்துவம்",
+      "sorrow": "துக்கம்",
+      "joy": "சந்தோஷம்",
+      "life": "வாழ்க்கை",
+      "death": "மரணம்"
+    },
+    "tamil_to_english": {
+      "வணக்கம்": "hello",
+      "பிரியாவிடை": "goodbye",
+      "நன்றி": "thank you",
+      "காதல்": "love",
+      "மித்ரன்": "friend",
+      "குடும்பம்": "family",
+      "மகிழ்ச்சி": "happiness",
+      "அறிவு": "knowledge",
+      "ஞானம்": "wisdom",
+      "அமைதி": "peace",
+      "நதி": "river",
+      "மலை": "mountain",
+      "வானம்": "sky",
+      "பூமி": "earth",
+      "அக்னி": "fire",
+      "நீர்": "water",
+      "காற்று": "air",
+      "சந்திரன்": "moon",
+      "சூரியன்": "sun",
+      "நட்சத்திரம்": "star",
+      "கனவு": "dream",
+      "உண்மை": "truth",
+      "அழகு": "beauty",
+      "வலிமை": "strength",
+      "தைரியம்": "courage",
+      "மித்ரத்துவம்": "friendship",
+      "துக்கம்": "sorrow",
+      "சந்தோஷம்": "joy",
+      "வாழ்க்கை": "life",
+      "மரணம்": "death"
+    }
+  },
+  "thirukkural": {
+    "1": {
+      "tamil": "அகர முதல எழுத்தெல்லாம் ஆதி பகவன் முதற்றே உலகு",
+      "english": "A, the first letter of all letters, is the first cause of the world."
+    },
+    "2": {
+      "tamil": "கற்றது கைமண் அளவு, கல்லாதது உலகளவு",
+      "english": "What I have learned is a handful of sand; what I have not learned is the size of the world."
+    },
+    "3": {
+      "tamil": "அன்பே ஆதி, அன்பே முடிவு",
+      "english": "Love is the beginning, love is the end."
+    },
+    "4": {
+      "tamil": "கடவுள் நம்மை காத்து, நாமும் கடவுளை காத்து",
+      "english": "God protects us, and we must protect God."
+    }
+  },
+  "poetic_words": {
+    "tamil_to_english": {
+      "அன்பு": "affection",
+      "காதல்": "love",
+      "மயக்கம்": "fascination",
+      "சொல்லல்": "expression",
+      "பொன்மொழி": "golden words",
+      "கண்ணீர்": "tears",
+      "வானம்": "sky",
+      "பூ": "flower",
+      "காற்று": "wind",
+      "நதி": "river",
+      "அழகு": "beauty",
+      "வலிமை": "strength",
+      "தெய்வம்": "divinity",
+      "பொதுவானம்": "commonness"
+    }
+  }
+}

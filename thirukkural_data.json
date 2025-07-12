@@ -1,0 +1,34 @@
+  {
+  "thirukkural": [
+    {
+      "number": "1",
+      "kural": "அகர முதல எழுத்தே ஆதி பகவன் முதற்றே உலகு.",
+      "tamil_meaning": "அகரம் என்பது எழுத்துகளின் முதன்மை. அதுபோல, உலகில் முதன்மை பெற்றது பகவான்.",
+      "english_meaning": "A is the first of letters; so is the Almighty the first in the world."
+    },
+    {
+      "number": "2",
+      "kural": "கற்றது கைமண் அளவு, கல்லாதது உலகளவு.",
+      "tamil_meaning": "நாம் கற்றது மிகச் சிறியது; கற்றுக்கொள்ளாதது மிகப் பெரியது.",
+      "english_meaning": "What we have learned is but a handful; what we have yet to learn is the size of the world."
+    },
+    {
+      "number": "3",
+      "kural": "அன்பே ஆது, அன்பே ஆது, அன்பே ஆது, அன்பே ஆது.",
+      "tamil_meaning": "அன்பு என்பது எல்லா உயிர்களுக்கும் அடிப்படையாகும்.",
+      "english_meaning": "Love is the foundation of all living beings."
+    },
+    {
+      "number": "4",
+      "kural": "குடியிருப்பது கண்ணும், கண்ணும், கண்ணும், கண்ணும்.",
+      "tamil_meaning": "குடியிருப்பது என்பது கண்ணின் அடிப்படையாகும்.",
+      "english_meaning": "Living together is the foundation of companionship."
+    },
+    {
+      "number": "5",
+      "kural": "வினை யினை யினை யினை யினை.",
+      "tamil_meaning": "நாம் செய்கிற செயல்கள் நமக்கு திருப்பம் தரும்.",
+      "english_meaning": "Our actions will return to us in kind."
+    }
+  ]
+}
